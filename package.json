@@ -1,6 +1,6 @@
 {
   "name": "git-versions",
-  "version": "0.0.1",
+  "version": "0.0.1-rc.1",
   "description": "Versioning experiments",
   "license": "MIT"
 }
